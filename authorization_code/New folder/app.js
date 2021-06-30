@@ -1,4 +1,3 @@
-//test update
 var express = require('express'); // Express web server framework
 var request = require('request'); // "Request" library
 var cors = require('cors');
@@ -14,14 +13,14 @@ var counter = 0;
  
 // credentials are optional
 var spotifyApi = new SpotifyWebApi({
-  clientId: '78e6c06078b64ca6a10035adea9995ce',
-  clientSecret: '0ca99a1d41954a9ebe812efdaab20956',
-  redirectUri: 'INSERT URI HERE'
+  clientId: '',
+  clientSecret: '',
+  redirectUri: ''
 });
 
-var client_id = '78e6c06078b64ca6a10035adea9995ce'; // Your client id
-var client_secret = '0ca99a1d41954a9ebe812efdaab20956'; // Your secret
-var redirect_uri = 'INSERT URI HERE'; // Your redirect uri
+var client_id = ''; // Your client id
+var client_secret = ''; // Your secret
+var redirect_uri = ''; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
@@ -62,7 +61,6 @@ app.get('/login', function(req, res) {
       state: state
     }));
 });
-
 
 app.get('/callback', function(req, res) {
 
@@ -106,9 +104,11 @@ app.get('/callback', function(req, res) {
         };
 
         // we can also pass the token to the browser to make requests from there
-        
-        
-
+        res.redirect('/#' +
+          querystring.stringify({
+            access_token: access_token,
+            refresh_token: refresh_token
+          }));
       } else {
         res.redirect('/#' +
           querystring.stringify({
@@ -137,21 +137,12 @@ app.get('/callback', function(req, res) {
      console.log(topArtists);
      var jason = JSON.stringify(topArtists, undefined, 4);
      fs.writeFileSync('spotifyDataArtists' +counter +'.json', jason, function(err) {console.log('Something went wrong!', err)});
-     
-     fs.writeFile('./public/counter.txt', counter, function (err) {
-      if (err) throw err;
-      console.log('Counter saved: ' +counter);
-     }); 
    }, function(err) {
      console.log('Something went wrong!', err);
    });
-   setTimeout(function(){res.redirect('INSERT CALLBACK HERE');}, 1500) 
     });
   }
 });
-
-
-
 
 
 app.get('/refresh_token', function(req, res) {
@@ -177,7 +168,3 @@ app.get('/refresh_token', function(req, res) {
     }
   });
 });
-
-
-console.log('Listening');
-app.listen(3000);
