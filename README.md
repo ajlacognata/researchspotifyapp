@@ -12,5 +12,6 @@ In order to replicate this study, please complete the following steps:
 10.	After running that raw data, run the new data through Appendices GenreGrabber.py and GenreChecker.py.*
 11.	Take the final data in indAtts and input the json files into Excel using the Get Data -> JSON found in the Data tab
 12.	Take the final data in indGenres and input it by pasting each text file.
-13.	Use the calculations from Appendix A for the survey data and make the necessary correlational tests
+13.	Use the calculations from ExcelFormulas.txt for the survey data and make the necessary correlational tests
+
 *Note: for steps 10 and 11, no other preparation other than having all the files necessary in the correct places should be needed, if an error occurs, reference the code for file structures.
