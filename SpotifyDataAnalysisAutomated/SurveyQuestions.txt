@@ -1,0 +1,128 @@
+Personal Information
+All questions have a prefer not to say option to ensure privacy
+1.What was the number you received after submitting your Spotify data?
+2.What grade level are you in?
+9th Grade (Freshman)
+10th Grade (Sophomore)
+11th Grade (Junior)
+12th Grade (Senior)
+Prefer not to say
+3.Which racial/ethnic group do you identify
+Non-Hispanic White
+Hispanic/Latino
+African-American
+East Asian
+South Asian/Indian
+Native American
+Other/Prefer not to say
+4.What gender do you identify with
+Male
+Female
+Non-binary
+Other/Prefer not to say
+5.What political party do you associate yourself with?
+Democratic
+Republican
+Libertarian
+Independent
+Other/Prefer not to say
+6.How much would you say you listen to music daily outside of driving?
+	30 minutes or less	30m-1hr	1-2hrs	2+hrs
+				
+7.How do you find music? (Choose all that apply regularly)
+Radio
+TikTok
+Other Social Media
+Friend/Family Recommendations
+Spotify Recommendations
+8.If you selected "Other" for any questions on this section and would like to input what your personal answer for that question was, please input the question number(s) and your answer(s) to that/those question(s)
+
+
+General Personality **ALL QUESTIONS ANSWER OPTIONS ARE Very Inaccurate,	Moderately Inaccurate,	Neither Inaccurate Nor Accurate,	Moderately Accurate,	or Very Accurate**
+9.How much do you agree with the following statements pertaining to yourself?
+I don't talk a lot					
+I am the one to initiate conversations					
+I talk to a lot of different people at parties					
+I don't like to draw attention to myself					
+I don't mind being the center of attention					
+I am quiet around strangers					
+
+10.How much do you agree with the following statements pertaining to yourself?
+I feel little concern for others					
+I am interested in people					
+I sympathize with others' feelings					
+I am not interested in other people's problems					
+I have a soft heart					
+I take time out for others					
+I am not really interested in others					
+
+11.How much do you agree with the following statements pertaining to yourself?
+I am always prepared					
+I leave my belongings around					
+I make a mess of things					
+I get chores done right away					
+I often forget to put things back in their proper place					
+I like order					
+
+12.How much do you agree with the following statements pertaining to yourself?
+I get stressed out easily					
+I worry about things					
+I get upset easily					
+I have frequent mood swings					
+I get irritated easily					
+I often feel blue					
+
+13.How much do you agree with the following statements pertaining to yourself?
+I have difficulty understanding abstract ideas					
+I have a vivid imagination					
+I am quick to understand things					
+I have excellent ideas					
+I have a rich vocabulary					
+I spend time reflecting on things					
+
+Political Questions **ALL QUESTIONS ANSWER OPTIONS ARE Strongly Disagree, Disagree, Neutral, Agree, Strongly Agree**
+14.Partisanship
+	I support both parties equally and will vote for whatever is best for the American people	I support one party more but will support the other depending on the issue at hand	The other party has views that are very much against mine but I would vote for them on few occasions if necessary 	The other party is ridiculous but I understand their views	I only support my party because the other side is insane
+How important is party affiliation to you?					
+
+15.Health
+America needs a health insurance plan that covers everyone, rich or poor, for all illnesses					
+Health insurance is the responsibility of the individual; government should keep out of it					
+Abortion, in which the woman's life is not in danger, should be allowed					
+Those with more to spend should have access to better healthcare			
+
+16.Wealth
+Business corporations generally strike a pretty fair balance between making profits and serving the public 					
+Most government programs could be done better by the market 					
+Corporate greed and shortsightedness are harming our country					
+Higher taxes should be imposed on the super-wealthy					
+
+17.International Affairs
+It is okay to defy international law, especially if some countries also defy it					
+It is important to maintain relations with other nations, even if it means engaging in unfair treaties	
+
+18.Government Intervention
+The government should not censor speech, press, media or the Internet					
+The government should legalize recreational marijuana for adult use					
+The government should end social security and allow citizens to save money for retirement on their own					
+The government should not fund any public broadcast, regardless of it's content					
+The government should impose more restrictions on guns					
+
+19.Legal/Justice System
+Rehabilitation of criminals is a waste of time, resources, and money					
+Immigration should be made easier					
+All criminals deserve a second chance					
+
+20.Misc.
+I would be willing to pay more for taxes if it meant better social programs were put in place					
+The government spends too much on the military					
+There is absolutely nothing wrong with homosexual marriage					
+Trans people should be treated as the gender they identify with, including in sports and other gender-specific circumstances					
+Those in power should be religious					
+AR-15s and other semi-assault rifles should be banned					
+
+
+
+
+ 
+
