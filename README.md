@@ -1,4 +1,4 @@
-# researchspotifyapp
+# The Melodies of Politics
 In order to replicate this study, please complete the following steps:
 1.	You must first create a spotify developer application by going to https://developer.spotify.com/ and clicking dashboard. Once you have logged in using your Spotify account you can move onto step 2.
 2.	Create an app by clicking on the greyed-out box that says “My New App” and giving the app a name and description and agreeing to the terms and conditions
