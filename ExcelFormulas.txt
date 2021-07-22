@@ -1,0 +1,16 @@
+Personality Calculations:
+	=IF(O2="Very Accurate",1,IF(O2="Moderately Accurate",2,IF(O2="Neither Inaccurate Nor Accurate",3,IF(O2="Moderately Inaccurate",4,IF(O2="Very Inaccurate",5,"error"))))) *
+Each category then has its five questions scores summed up and the personality type is determined based on whether it is above or below 17.5 using to the big five test (Goldberg 1990)
+
+Political Orientation Calculations:
+Normal question where agree would be a conservative viewpoint:
+	=IF(BC2=”Strongly Agree”, 2, IF(BC2=”Somewhat Agree”, 1, IF(BC2=”Neutral”, 0, IF(BC2=”Somewhat Disagree”, -1, -2)))) *
+Normal question where agree would be a liberal viewpoint:
+	=IF(BB2=”Strongly Agree”, -2, IF(BB2=”Somewhat Agree”, -1, IF(BB2=”Neutral”, 0, IF(BB2=”Somewhat Disagree”, 1, 2)))) *
+Divisive question where agree would be a conservative viewpoint:
+	=IF(BE2=”Strongly Agree”, 4, IF(BE2=”Somewhat Agree”, 2, IF(BE2=”Neutral”, 0, IF(BE2=”Somewhat Disagree”, -2, -4)))) *
+Divisible question where agree would be a liberal viewpoint:
+	=IF(BF2=”Strongly Agree”, -4, IF(BF2=”Somewhat Agree”, -2, IF(BF2=”Neutral”, 0, IF(BF2=”Somewhat Disagree”, 2, 4)))) *
+
+*Note: all cells referenced can be replaced with any cell in which the calculation applies
+Political orientation scores are simply just the sum of all question scores.
