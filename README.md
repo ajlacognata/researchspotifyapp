@@ -7,9 +7,9 @@ In order to replicate this study, please complete the following steps:
 5.	In the callback page for your website, include the link to your survey with a number that counts up every time Spotify data is submitted to match the data saved to your computer/hostserver
 6.	Run the site (with app.js) whilst distributing the survey to obtain Spotify data
 7.	Once satisfied with the number of responses, close the survey and close the program.
-8.	In a new folder, save files with the code from Appendices F-J
-9.	Run the raw spotify data through the code from Appendices F and H.*
-10.	After running that raw data, run the new data through Appendices G and I.*
+8.	Save the raw spotify data to the rawspotifydata folder in the SpotifyDataAnalysisAutomated folder
+9.	Run the raw spotify data through SpotifyJSONParser.py and SpotifyDataAnalyzer.py.*
+10.	After running that raw data, run the new data through Appendices GenreGrabber.py and GenreChecker.py.*
 11.	Take the final data in indAtts and input the json files into Excel using the Get Data -> JSON found in the Data tab
 12.	Take the final data in indGenres and input it by pasting each text file.
 13.	Use the calculations from Appendix A for the survey data and make the necessary correlational tests
