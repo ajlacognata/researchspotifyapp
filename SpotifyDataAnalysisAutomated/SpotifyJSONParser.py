@@ -1,7 +1,7 @@
 import json
-n = 7 # First ID num in Microsoft Forms
+n = 1 # First ID num in Microsoft Forms
 
-print("Input highest id num:") # in order to tell the program how many times to repeat
+print("Input highest id number from Microsoft Forms:") # in order to tell the program how many times to repeat
 idinput = input()
 
 idinput = int(idinput)
